@@ -5,9 +5,9 @@ dependencies:
   - numpy
   - pandas
   - scipy
-  - pickle
+  - pickle5
   - ipywidgets
   - shap
-  - IPython
+  - ipython
   - matplotlib
   - seaborn
