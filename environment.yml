@@ -11,4 +11,4 @@ dependencies:
   - seaborn
   - appmode
   - pip:
-    - xgboost
+    - xgboost==0.90
