@@ -1,7 +1,5 @@
 name: test-env
 dependencies:
-  - anaconda
-  - python
   - numpy
   - pandas
   - scipy
@@ -12,6 +10,5 @@ dependencies:
   - matplotlib
   - seaborn
   - appmode
-  - pip
   - pip:
-    - xgboost == 0.90
+    - xgboost
