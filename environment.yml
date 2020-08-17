@@ -1,7 +1,7 @@
-name: example-environment
-channels:
-  - conda-forge
+name: test-env
 dependencies:
+  - anaconda
+  - python
   - numpy
   - pandas
   - scipy
@@ -12,4 +12,6 @@ dependencies:
   - matplotlib
   - seaborn
   - appmode
-  - xgboost
+  - pip
+  - pip:
+    - xgboost == 0.90
