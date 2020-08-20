@@ -1,4 +1,4 @@
-# Power purchasing of common goods, income and economic burden of illness
+# Purchasing power of common goods, income and economic burden of illness
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jrsamuellopez/purchasing-power-and-burden-of-illness/master?urlpath=apps%2Findex.ipynb)
 
